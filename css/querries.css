@@ -1,0 +1,57 @@
+/*-----------===[ Querries ]===-----------*/
+
+
+/*------[ Header ]------*/
+
+@media (max-width:989px) and (min-width:0px){
+   
+    #jackDanielSection img{
+        display: none;
+    }
+    
+    #navOptions a{
+        display: none;
+    }
+    
+    
+    #headerText img{
+    transform: scale(0.7);
+    }
+    
+    #headerText h1{
+    font-size: 35px;
+    }
+
+    #headerText h2{
+        font-size: 25px;  
+    }
+
+    #headerText a{
+        font-size: 16px;
+    }
+    
+    #recipesBackground h2{
+        
+        font-size: 35px;
+    }
+    
+}
+
+@media (max-width:590px) and (min-width:0px){
+    
+    #headerText img{
+        display: none;
+    }
+    
+    #termsOfUse{
+        display: none;
+    }
+}
+
+
+
+
+
+
+
+
